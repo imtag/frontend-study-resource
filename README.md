@@ -2,10 +2,10 @@
 - JavaScript 高级程序设计
 - JavaScript 模式
 - 高性能 JavaScript
-- JavaScript 语言精髓
-- 你不知道的 JavaScript
-- 深入理解 JavaScript 系列
 - JavaScript 设计模式与编程实战
+- JavaScript 语言精髓
+- 深入理解 JavaScript 系列
+- 你不知道的 JavaScript
 - 前端工程化体系设计和实践
 - webkit 技术内幕
 - 高性能网站建设指南
@@ -21,10 +21,11 @@
 - 计算机组成
 
 ## 其他
-- Flutter
-- Android
-- Java
 - Nginx
 - Mysql
-- Redis
 - Docker
+- Flutter
+- Java
+- Android
+- Redis
+
