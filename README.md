@@ -19,3 +19,12 @@
 - 操作系统
 - 编译原理
 - 计算机组成
+
+## 其他
+- Flutter
+- Android
+- Java
+- Nginx
+- Mysql
+- Redis
+- Docker
