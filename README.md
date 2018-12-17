@@ -22,13 +22,11 @@
 - 计算机组成
 
 ## 其他
-- Nginx
-- Mysql
-- Docker
-- Flutter
-- Java
-- Android
-- Redis
+- 部署 Nginx、Docker
+- 数据库 Mongodb、Mysql
+- 原生 Flutter、Android
+- 语言 Java、Python
+- 缓存 Redis
 
 ## 小册
 - 使用 Webpack 定制前端环境
