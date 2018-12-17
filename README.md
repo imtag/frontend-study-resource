@@ -72,3 +72,24 @@
 - https://github.com/yanhaijing
 - https://yanhaijing.com/
 - https://juejin.im/user/56848f1d60b2fa064c24a4fd
+
+司徒正美（穿梭于二进制与二次元的JS魔术师）
+- https://github.com/RubyLouvre
+- http://www.cnblogs.com/rubylouvre/
+
+染陌同学（Front end & Node.js & C++）
+- https://github.com/answershuto
+- https://github.com/answershuto/Blog
+
+当耐特
+- https://juejin.im/user/5754d6892077030069d32efd
+
+## 社区
+- stack overflow
+- 掘金
+- 知乎
+
+## 文档
+- mdn
+- google开发者
+- w3c
