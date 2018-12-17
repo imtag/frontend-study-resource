@@ -59,3 +59,16 @@
 俞诚恺
 - https://github.com/KieSun
 - https://juejin.im/user/574f8d8d2e958a005fd4edac
+
+工业聚
+- https://github.com/Lucifier129
+- https://github.com/Lucifier129/Lucifier129.github.io/issues
+
+木易杨
+- https://github.com/yygmind
+- https://github.com/yygmind/blog
+
+颜海镜（知名技术博主，开源达人，《React状态管理与同构实战》作者）
+- https://github.com/yanhaijing
+- https://yanhaijing.com/
+- https://juejin.im/user/56848f1d60b2fa064c24a4fd
