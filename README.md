@@ -44,6 +44,9 @@
 - 剖析 Vue.js 内部运行机制
 
 ## 链接
+黄峰达
+- https://github.com/phodal
+
 王福朋
 - https://github.com/wangfupeng1988
 - https://www.cnblogs.com/wangfupeng1988
