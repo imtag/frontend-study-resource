@@ -5,7 +5,7 @@
 - JavaScript 语言精髓
 - JavaScript 设计模式与编程实战
 - JavaScript 框架设计
-- 编写可测试的 JavaScript 代码
+- 编写可维护的 JavaScript 代码
 - 深入理解 JavaScript 系列
 - 你不知道的 JavaScript
 - 前端工程化体系设计和实践
