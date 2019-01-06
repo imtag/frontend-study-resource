@@ -106,3 +106,4 @@
 ## 文章
 - [浅谈现代前端框架技术](https://github.com/rainjay/blog/issues/8)
 - [谈谈时间管理](https://github.com/rainjay/blog/issues/7)
+- [如何写出好的 JavaScript —— 浅谈 API 设计](https://www.h5jun.com/post/how-to-write-better-js-code.html)
