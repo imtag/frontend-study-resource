@@ -93,7 +93,7 @@
 当耐特
 - https://juejin.im/user/5754d6892077030069d32efd
 
-王沛（Qconf讲师）
+王沛（Qcon讲师）
 - https://www.infoq.cn/profile/1277666?menu=publish#menu-trace
 
 ## 社区
