@@ -115,6 +115,7 @@
 - [谈谈时间管理](https://github.com/rainjay/blog/issues/7)
 - [如何写出好的 JavaScript —— 浅谈 API 设计](https://www.h5jun.com/post/how-to-write-better-js-code.html)
 - [JavaScript 复杂判断的更优雅写法](https://juejin.im/post/5bdfef86e51d453bf8051bf8)
+- [[译]发现 JavaScript 中闭包的强大威力](https://juejin.im/post/5c4e6a90e51d4552266576d2)
 
 ## 导航
 - 语言
