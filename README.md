@@ -32,9 +32,7 @@
 - 面向对象
 - 数据结构与算法
 - 设计模式
-- 操作系统
 - 编译原理
-- 计算机组成
 
 ## 其他
 - 部署 Nginx、Docker
@@ -150,9 +148,6 @@
     - nuxt
     - vue-i18n
     - vue-lazyload
-    - vuelidate
-    - vue-validator
-    - vue-virtual-scroller
   - react生态
     - react
     - react-router
