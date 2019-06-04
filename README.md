@@ -18,7 +18,7 @@
 | [集合](#常用集合) | [多线程](#java-多线程)|[JVM](#jvm) | [分布式](#分布式相关) |[框架](#常用框架第三方组件)|[架构设计](#架构设计)| [数据库](#db-相关) |[算法](#数据结构与算法)|[Netty](#netty-相关)| [附加技能](#附加技能)|[联系作者](#联系作者) |
 <br>
 
-## 书籍推荐
+### 书籍推荐
 - JavaScript 高级程序设计
 - JavaScript 忍者秘籍
 - JavaScript 语言精髓
@@ -37,15 +37,13 @@
 - ES6 标准入门
 - 深入理解 ES6
 - 深入浅出 Nodejs
-<br>
 
-## 极客时间专栏
+### 极客时间专栏
 - 重学前端
 - webpack
 - http
-<br>
 
-## 博主
+### 博主
 |Name|Status|Install Size|Description|
 |:--:|:----:|:----------:|:----------|
 |<a href="https://github.com/webpack/html-loader"><img width="48" height="48" src="https://worldvectorlogo.com/logos/html5.svg"></a>|![html-npm]|![html-size]|Exports HTML as string, requires references to static resources|
@@ -92,59 +90,4 @@
 - https://juejin.im/user/56848f1d60b2fa064c24a4fd
 
 司徒正美（穿梭于二进制与二次元的JS魔术师）
-- https://github.com/RubyLouvre
-- http://www.cnblogs.com/rubylouvre/
-
-染陌同学（Front end & Node.js & C++）
-- https://github.com/answershuto
-- https://github.com/answershuto/Blog
-
-当耐特
-- https://juejin.im/user/5754d6892077030069d32efd
-
-王沛（Qcon讲师）
-- https://www.infoq.cn/profile/1277666?menu=publish#menu-trace
-
-胡子打哈
-- https://github.com/huzidaha
-
-- 阮一峰
-- winter
-<br>
-
-## 开源电子书
-- 《React.js 小书》 https://github.com/huzidaha/react-naive-book
-- 《Fullter 实战》 https://github.com/flutterchina/flutter-in-action
-- 《Vue 源码分析》 https://github.com/ustbhuangyi/vue-analysis
-- 《前端开发者手册 2018》 https://github.com/xitu/front-end-handbook-2018
-- 《Docker 从入门到实践》 https://github.com/yeasy/docker_practice
-- 《React 源码解析》 https://react.jokcy.me
-- 《Koa2 进阶学习笔记》 https://github.com/chenshenhai/koa2-note
-- 《ECMAScript6 入门》 https://github.com/ruanyf/es6tutorial
-- 《高质量的 Git 中文教程》 https://github.com/geeeeeeeeek/git-recipes
-- 《你不知道的 JavaScript》
-<br>
-
-## 系列文章
-- how-javascript-works https://github.com/Troland/how-javascript-works
-<br>
-
-## 社区
-- stack overflow
-- 知乎
-- segmentfault
-- 掘金
-<br>
-
-## 文档
-- mdn
-- google开发者
-- w3c
-<br>
-
-## 文章
-- [浅谈现代前端框架技术](https://github.com/rainjay/blog/issues/8)
-- [谈谈时间管理](https://github.com/rainjay/blog/issues/7)
-- [如何写出好的 JavaScript —— 浅谈 API 设计](https://www.h5jun.com/post/how-to-write-better-js-code.html)
-- [JavaScript 复杂判断的更优雅写法](https://juejin.im/post/5bdfef86e51d453bf8051bf8)
-- [[译]发现 JavaScript 中闭包的强大威力](https://juejin.im/post/5c4e6a90e51d4552266576d2)
+- https://github.com/RubyLouv
