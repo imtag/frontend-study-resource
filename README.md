@@ -149,3 +149,7 @@
 - ES6 标准入门
 - 深入理解 ES6
 - 深入浅出 Nodejs
+
+### 规范
+- es5中文版 http://yanhaijing.com/es5
+- es5英文版 http://es5.github.io/#x15.1
