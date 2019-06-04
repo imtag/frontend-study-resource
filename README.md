@@ -36,11 +36,13 @@
 - ES6 标准入门
 - 深入理解 ES6
 - 深入浅出 Nodejs
+<br/>
 
 ### 极客时间专栏
 - 重学前端
 - webpack
 - http
+<br/>
 
 ### 博主
 黄峰达
@@ -98,6 +100,7 @@
 
 - 阮一峰
 - winter
+<br/>
 
 ### 开源电子书
 - 《React.js小书》 https://github.com/huzidaha/react-naive-book
@@ -109,20 +112,24 @@
 - 《Koa2进阶学习笔记》 https://github.com/chenshenhai/koa2-note
 - 《ECMAScript6入门》 https://github.com/ruanyf/es6tutorial
 - 《高质量的 Git 中文教程》 https://github.com/geeeeeeeeek/git-recipes
+<br/>
 
 ### 系列文章
 - how-javascript-works https://github.com/Troland/how-javascript-works
+<br/>
 
 ### 社区
 - stack overflow
 - 知乎
 - segmentfault
 - 掘金
+<br/>
 
 ### 文档
 - mdn
 - google开发者
 - w3c
+<br/>
 
 ### 文章
 - [浅谈现代前端框架技术](https://github.com/rainjay/blog/issues/8)
@@ -130,3 +137,4 @@
 - [如何写出好的 JavaScript —— 浅谈 API 设计](https://www.h5jun.com/post/how-to-write-better-js-code.html)
 - [JavaScript 复杂判断的更优雅写法](https://juejin.im/post/5bdfef86e51d453bf8051bf8)
 - [[译]发现 JavaScript 中闭包的强大威力](https://juejin.im/post/5c4e6a90e51d4552266576d2)
+<br/>
