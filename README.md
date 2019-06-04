@@ -21,8 +21,8 @@
 ### 博主
 |Avatar|Name|Github|ZhiHu|Description|
 |:----:|:------:|:----:|:----|:----------:|
-|<img width="48" height="48" src="https://avatars1.githubusercontent.com/u/472311?s=400&v=4"/>|黄峰达|[phodal](https://github.com/phodal)|[phodal](https://www.zhihu.com/people/phodal/activities)|待我代码编成，娶你为妻可好|
-|<img width="48" height="48" src="https://avatars0.githubusercontent.com/u/11458263?s=400&v=4"/>|冴羽|[mqyqingfeng](https://github.com/mqyqingfeng)|--|前端工程师，深入系列、专题系列、underscore 系列、ES6 系列已完结，正在准备新的系列文章中|
+|<img width="48" height="48" src="https://avatars1.githubusercontent.com/u/472311?s=400&v=4"/>|[黄峰达]()|[phodal](https://github.com/phodal)|[phodal](https://www.zhihu.com/people/phodal/activities)|待我代码编成，娶你为妻可好|
+|<img width="48" height="48" src="https://avatars0.githubusercontent.com/u/11458263?s=400&v=4"/>|冴羽|[mqyqingfeng](https://github.com/mqyqingfeng)|[冴羽](https://www.zhihu.com/people/qing-feng-yi-yang/activities)|前端工程师，深入系列、专题系列、underscore 系列、ES6 系列已完结，正在准备新的系列文章中|
 |<img width="48" height="48" src="https://avatars0.githubusercontent.com/u/239291?s=400&v=4"/>|程墨|[mocheng](https://github.com/mocheng)|[程墨Morgan](https://www.zhihu.com/people/morgancheng)|互联网研发老兵，微信公众号morgansays，《深入浅出React和Redux》作者|
 
 黄峰达
