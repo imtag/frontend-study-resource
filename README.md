@@ -18,7 +18,7 @@
 | [集合](#常用集合) | [多线程](#java-多线程)|[JVM](#jvm) | [分布式](#分布式相关) |[框架](#常用框架第三方组件)|[架构设计](#架构设计)| [数据库](#db-相关) |[算法](#数据结构与算法)|[Netty](#netty-相关)| [附加技能](#附加技能)|[联系作者](#联系作者) |
 <br>
 
-### 书籍推荐
+## 书籍推荐
 - JavaScript 高级程序设计
 - JavaScript 忍者秘籍
 - JavaScript 语言精髓
@@ -37,13 +37,24 @@
 - ES6 标准入门
 - 深入理解 ES6
 - 深入浅出 Nodejs
+<br>
 
-### 极客时间专栏
+## 极客时间专栏
 - 重学前端
 - webpack
 - http
+<br>
 
-### 博主
+## 博主
+|Name|Status|Install Size|Description|
+|:--:|:----:|:----------:|:----------|
+|<a href="https://github.com/webpack/html-loader"><img width="48" height="48" src="https://worldvectorlogo.com/logos/html5.svg"></a>|![html-npm]|![html-size]|Exports HTML as string, requires references to static resources|
+|<a href="https://github.com/pugjs/pug-loader"><img width="48" height="48" src="https://cdn.rawgit.com/pugjs/pug-logo/master/SVG/pug-final-logo-_-colour-128.svg"></a>|![pug-npm]|![pug-size]|Loads Pug templates and returns a function|
+|<a href="https://github.com/webpack/jade-loader"><img width="48" height="48" src="https://worldvectorlogo.com/logos/jade-3.svg"></a>|![jade-npm]|![jade-size]|Loads Jade templates and returns a function|
+|<a href="https://github.com/peerigon/markdown-loader"><img width="48" height="48" src="https://worldvectorlogo.com/logos/markdown.svg"></a>|![md-npm]|![md-size]|Compiles Markdown to HTML|
+|<a href="https://github.com/posthtml/posthtml-loader"><img width="48" height="48" src="http://posthtml.github.io/posthtml/logo.svg"></a>|![posthtml-npm]|![posthtml-size]|Loads and transforms a HTML file using [PostHTML](https://github.com/posthtml/posthtml)|
+|<a href="https://github.com/altano/handlebars-loader"><img width="48" height="48" src="https://worldvectorlogo.com/logos/handlebars-1.svg"></a>|![hbs-npm]|![hbs-size]| Compiles Handlebars to HTML|
+
 黄峰达
 - https://github.com/phodal
 
@@ -99,8 +110,9 @@
 
 - 阮一峰
 - winter
+<br>
 
-### 开源电子书
+## 开源电子书
 - 《React.js 小书》 https://github.com/huzidaha/react-naive-book
 - 《Fullter 实战》 https://github.com/flutterchina/flutter-in-action
 - 《Vue 源码分析》 https://github.com/ustbhuangyi/vue-analysis
@@ -111,22 +123,26 @@
 - 《ECMAScript6 入门》 https://github.com/ruanyf/es6tutorial
 - 《高质量的 Git 中文教程》 https://github.com/geeeeeeeeek/git-recipes
 - 《你不知道的 JavaScript》
+<br>
 
-### 系列文章
+## 系列文章
 - how-javascript-works https://github.com/Troland/how-javascript-works
+<br>
 
-### 社区
+## 社区
 - stack overflow
 - 知乎
 - segmentfault
 - 掘金
+<br>
 
-### 文档
+## 文档
 - mdn
 - google开发者
 - w3c
+<br>
 
-### 文章
+## 文章
 - [浅谈现代前端框架技术](https://github.com/rainjay/blog/issues/8)
 - [谈谈时间管理](https://github.com/rainjay/blog/issues/7)
 - [如何写出好的 JavaScript —— 浅谈 API 设计](https://www.h5jun.com/post/how-to-write-better-js-code.html)
