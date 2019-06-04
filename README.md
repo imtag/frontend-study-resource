@@ -79,7 +79,7 @@
 - https://github.com/huzidaha
 
 - 阮一峰
-- 程勋非（winter）
+- 程勋非（winter）淘宝高级技术专家
 - 陈成（云谦）
 - 贺师俊（Hax）
 - 桑世龙（狼叔）
@@ -87,6 +87,15 @@
 - 张鑫旭
 - 唐金州
 - 赵成 github(zcbenz) Electron 原作者，GitHub 工程师 博客（http://cheng.guru/）
+- 雷志兴（Berg）
+- 杨文坚
+- 李成银
+- 郑叶飞（圆心）淘宝资深总监，阿里巴巴集团前端委员会主席
+- 尤雨溪（Evan You）Vue.js 作者，Vue Technology LLC 创始人
+- 谭待 百度搜索首席架构师，百度搜索公司技术委员会联席主席
+- 于涛 腾讯Web前端技术总监，AlloyTeam创始人
+- 迷渡
+- 程墨 Hulu资深开发工程师，《深入浅出React和Redux》&《深入浅出RxJS》作者
 
 ### 开源电子书
 - 《React.js 小书》 https://github.com/huzidaha/react-naive-book
