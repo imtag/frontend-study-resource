@@ -100,15 +100,15 @@
 - winter
 
 ### 开源电子书
--《React.js小书》 https://github.com/huzidaha/react-naive-book
--《Fullter实战》 https://github.com/flutterchina/flutter-in-action
--《Vue源码分析》 https://github.com/ustbhuangyi/vue-analysis
--《前端开发者手册2018》 https://github.com/xitu/front-end-handbook-2018
--《Docker从入门到实践》 https://github.com/yeasy/docker_practice
--《React源码解析》 https://react.jokcy.me
--《Koa2进阶学习笔记》 https://github.com/chenshenhai/koa2-note
--《ECMAScript6入门》 https://github.com/ruanyf/es6tutorial
--《高质量的 Git 中文教程》 https://github.com/geeeeeeeeek/git-recipes
+- 《React.js小书》 https://github.com/huzidaha/react-naive-book
+- 《Fullter实战》 https://github.com/flutterchina/flutter-in-action
+- 《Vue源码分析》 https://github.com/ustbhuangyi/vue-analysis
+- 《前端开发者手册2018》 https://github.com/xitu/front-end-handbook-2018
+- 《Docker从入门到实践》 https://github.com/yeasy/docker_practice
+- 《React源码解析》 https://react.jokcy.me
+- 《Koa2进阶学习笔记》 https://github.com/chenshenhai/koa2-note
+- 《ECMAScript6入门》 https://github.com/ruanyf/es6tutorial
+- 《高质量的 Git 中文教程》 https://github.com/geeeeeeeeek/git-recipes
 
 ### 系列文章
 - how-javascript-works https://github.com/Troland/how-javascript-works
