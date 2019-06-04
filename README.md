@@ -1,11 +1,4 @@
-## 计划
-- 每天一道算法题
-- 每天一道深入js
-- 短期：极客专栏、掘金小册、面试题
-- 长期：看书、源码分析
-- 长期：工具系统、产品
-
-## 书籍
+## 书籍推荐
 - JavaScript 高级程序设计
 - JavaScript 忍者秘籍
 - JavaScript 语言精髓
@@ -16,7 +9,6 @@
 - 深入理解 JavaScript 系列
 - 你不知道的 JavaScript
 - 前端工程化体系设计和实践
-- 前端架构设计
 - Webkit 技术内幕
 - 高性能网站建设指南
 - Web 性能实践日志
@@ -26,33 +18,10 @@
 - 深入理解 ES6
 - 深入浅出 Nodejs
 
-## 基础
-- 英语
-- 网络
-- 面向对象
-- 数据结构与算法
-- 设计模式
-- 编译原理
-
-## 其他
-- 部署 Nginx、Docker
-- 数据库 Mongodb、Mysql
-- 原生 Flutter、Android
-- 语言 Java、Python
-- 缓存 Redis
-
-## 掘金小册
-- 使用 Webpack 定制前端环境
-- 基于 hapi 的 Node.js 小程序后端开发实践指南
-- 前端性能优化原理与实践
-- Flutter入门实战：从0到1仿写web版掘金App
-- React 组合式开发实践：打造企业管理系统五大核心模块
-- Web 前端面试指南与高频考题解析
-- 前端面试之道
-- 剖析 Vue.js 内部运行机制
-
 ## 极客时间专栏
 - 重学前端
+- webpack
+- http
 
 ## 博主
 黄峰达
@@ -105,10 +74,31 @@
 王沛（Qcon讲师）
 - https://www.infoq.cn/profile/1277666?menu=publish#menu-trace
 
+胡子打哈
+- https://github.com/huzidaha
+
+- 阮一峰
+- winter
+
+## 开源电子书
+-《React.js小书》 https://github.com/huzidaha/react-naive-book
+-《Fullter实战》 https://github.com/flutterchina/flutter-in-action
+-《Vue源码分析》 https://github.com/ustbhuangyi/vue-analysis
+-《前端开发者手册2018》 https://github.com/xitu/front-end-handbook-2018
+-《Docker从入门到实践》 https://github.com/yeasy/docker_practice
+-《React源码解析》 https://react.jokcy.me
+-《Koa2进阶学习笔记》 https://github.com/chenshenhai/koa2-note
+-《ECMAScript6入门》 https://github.com/ruanyf/es6tutorial
+-《高质量的 Git 中文教程》 https://github.com/geeeeeeeeek/git-recipes
+
+## 系列文章
+- how-javascript-works https://github.com/Troland/how-javascript-works
+
 ## 社区
 - stack overflow
-- 掘金
 - 知乎
+- segmentfault
+- 掘金
 
 ## 文档
 - mdn
@@ -122,68 +112,3 @@
 - [JavaScript 复杂判断的更优雅写法](https://juejin.im/post/5bdfef86e51d453bf8051bf8)
 - [[译]发现 JavaScript 中闭包的强大威力](https://juejin.im/post/5c4e6a90e51d4552266576d2)
 
-## 导航
-- 语言
-  - JavaScript
-  - TypeScript
-  - Dart
-
-- web开发
-  - vue生态
-    - vue
-    - vue-router
-    - vuex
-    - vuex-class
-    - vue-cli
-    - vuepress
-    - vue-test-utils
-    - vue-class-component
-    - vue-property-decorator
-    - element
-    - iview
-    - vue-material
-    - vux
-    - cube-ui
-    - mint-ui
-    - nuxt
-    - vue-i18n
-    - vue-lazyload
-  - react生态
-    - react
-    - react-router
-    - redux
-    - create-react-app
-    - dva
-    - next
-    - ant-design
-    - ant-design-mobile
-    - material-ui
-    
-- 小程序
-  - 原生
-  - wepy
-  - mpvue
-  - min
-
-- 混合应用
-  - react-native
-  - weex
-  - native-script
-
-- 多端统一
-  - taro
-  - uni
-
-- 构建
-  - webpack
-  - parcel
-  - rollup
-  - gulp
-  - grunt
-  
-- node
-  - 原生
-  - express
-  - koa
-  - hapi
-  - nest
