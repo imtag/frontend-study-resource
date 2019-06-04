@@ -79,7 +79,14 @@
 - https://github.com/huzidaha
 
 - 阮一峰
-- winter
+- 程勋非（winter）
+- 陈成（云谦）
+- 贺师俊（Hax）
+- 桑世龙（狼叔）
+- 吴亮（月影）
+- 张鑫旭
+- 唐金州
+- 赵成 github(zcbenz) Electron 原作者，GitHub 工程师 博客（http://cheng.guru/）
 
 ### 开源电子书
 - 《React.js 小书》 https://github.com/huzidaha/react-naive-book
