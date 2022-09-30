@@ -59,9 +59,10 @@
 王沛（Qcon讲师）
 - https://www.infoq.cn/profile/1277666?menu=publish#menu-trace
 
-胡子打哈
+胡子大哈
 - https://github.com/huzidaha
 
+待完善
 - 阮一峰
 - 程勋非（winter）淘宝高级技术专家
 - 陈成（云谦）
